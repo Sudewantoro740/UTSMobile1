@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UTSMobile1</string>
+    <string name="fakultas_upn_veteran_jawa_timur">Fakultas UPN VeteranJawa Timur</string>
+    <string name="upn_vateran_jawa_timur">UPN Vateran Jawa Timur</string>
+    <string name="title_activity_detail_fakultas">DetailFakultas</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="todo1">TODO</string>
+    <string name="name_faculty1">name_faculty</string>
+    <string name="short_description">short_description</string>
+    <string name="name_description">name_description</string>
+    <string name="name_faculty">name_faculty</string>
+    <string name="todo">TODO</string>
+</resources>
